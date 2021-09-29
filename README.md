@@ -13,6 +13,16 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## Project Description
 
+### DB before optimization
+
+![query1](./query1.png)
+![query2](./query2.png)
+![query3](./query3.png)
+
+### DB After optimization
+
+![query1_optimized](./query1_optimized.png)
+
 
 ## Authors
 
